@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\test_api\App\bin\Release\net8.0\App.deps.json
+C:\Users\Andrey\Desktop\test_api\App\bin\Release\net8.0\App.dll
+C:\Users\Andrey\Desktop\test_api\App\bin\Release\net8.0\App.pdb
+C:\Users\Andrey\Desktop\test_api\App\bin\Release\net8.0\Domain.dll
+C:\Users\Andrey\Desktop\test_api\App\bin\Release\net8.0\Domain.pdb
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.csproj.Up2Date
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.dll
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\refint\App.dll
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\App.pdb
+C:\Users\Andrey\Desktop\test_api\App\obj\Release\net8.0\ref\App.dll

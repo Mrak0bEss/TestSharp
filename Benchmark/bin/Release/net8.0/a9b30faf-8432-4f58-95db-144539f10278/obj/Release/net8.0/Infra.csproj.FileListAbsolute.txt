@@ -1,0 +1,13 @@
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\bin\Release\net8.0\Infra.deps.json
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\bin\Release\net8.0\Infra.dll
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\bin\Release\net8.0\Infra.pdb
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.csproj.Up2Date
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.dll
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\refint\Infra.dll
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\Infra.pdb
+C:\Users\Andrey\Desktop\test_api\Benchmark\bin\Release\net8.0\a9b30faf-8432-4f58-95db-144539f10278\obj\Release\net8.0\ref\Infra.dll

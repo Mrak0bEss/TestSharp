@@ -1,0 +1,4 @@
+// Validating benchmarks:
+// Benchmark CreateUserHandlerBenchmark.CreateUser: .NET 7.0(Runtime=.NET 7.0)
+//    * The required .NET Core SDK version 7.0 for runtime moniker Net70 is not installed.
+

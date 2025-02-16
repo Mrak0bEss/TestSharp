@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\test_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63DD4330-96F3-4B78-A2DF-12CDF9EB33B8}|Benchmark\\Benchmark.csproj|c:\\users\\andrey\\desktop\\test_api\\benchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63DD4330-96F3-4B78-A2DF-12CDF9EB33B8}|Benchmark\\Benchmark.csproj|solutionrelative:benchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA66A263-3331-4448-A5C4-105B61AE2761}|Infra\\Infra.csproj|c:\\users\\andrey\\desktop\\test_api\\infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA66A263-3331-4448-A5C4-105B61AE2761}|Infra\\Infra.csproj|solutionrelative:infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3CB912-8737-4AB7-83CA-C2BC2CE1652F}|App\\App.csproj|c:\\users\\andrey\\desktop\\test_api\\app\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3CB912-8737-4AB7-83CA-C2BC2CE1652F}|App\\App.csproj|solutionrelative:app\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F944F056-C721-4AB1-814C-FF0F3F54105E}|test_api\\test_api.csproj|c:\\users\\andrey\\desktop\\test_api\\test_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F944F056-C721-4AB1-814C-FF0F3F54105E}|test_api\\test_api.csproj|solutionrelative:test_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F944F056-C721-4AB1-814C-FF0F3F54105E}|test_api\\test_api.csproj|c:\\users\\andrey\\desktop\\test_api\\test_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F944F056-C721-4AB1-814C-FF0F3F54105E}|test_api\\test_api.csproj|solutionrelative:test_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA66A263-3331-4448-A5C4-105B61AE2761}|Infra\\Infra.csproj|c:\\users\\andrey\\desktop\\test_api\\infra\\infrasetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA66A263-3331-4448-A5C4-105B61AE2761}|Infra\\Infra.csproj|solutionrelative:infra\\infrasetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F944F056-C721-4AB1-814C-FF0F3F54105E}|test_api\\test_api.csproj|c:\\users\\andrey\\desktop\\test_api\\test_api\\obj\\debug\\net8.0\\test_api.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F944F056-C721-4AB1-814C-FF0F3F54105E}|test_api\\test_api.csproj|solutionrelative:test_api\\obj\\debug\\net8.0\\test_api.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3CB912-8737-4AB7-83CA-C2BC2CE1652F}|App\\App.csproj|c:\\users\\andrey\\desktop\\test_api\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C3CB912-8737-4AB7-83CA-C2BC2CE1652F}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|c:\\users\\andrey\\desktop\\test_api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|c:\\users\\andrey\\desktop\\test_api\\domain\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|solutionrelative:domain\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|c:\\users\\andrey\\desktop\\test_api\\domain\\obj\\debug\\net8.0\\domain.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|solutionrelative:domain\\obj\\debug\\net8.0\\domain.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|c:\\users\\andrey\\desktop\\test_api\\domain\\domainsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCF22BF-E9D4-470D-B19E-789D852125F8}|Domain\\Domain.csproj|solutionrelative:domain\\domainsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\Benchmark\\Program.cs",
+              "RelativeDocumentMoniker": "Benchmark\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\Benchmark\\Program.cs",
+              "RelativeToolTip": "Benchmark\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:44:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\test_api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "test_api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\test_api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "test_api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:21:43.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test_api.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\test_api\\obj\\Debug\\net8.0\\test_api.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "test_api\\obj\\Debug\\net8.0\\test_api.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\test_api\\obj\\Debug\\net8.0\\test_api.GlobalUsings.g.cs",
+              "RelativeToolTip": "test_api\\obj\\Debug\\net8.0\\test_api.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:13:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\Infra\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\Infra\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infra\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:09:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\Abstraction\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstraction\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\Abstraction\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Abstraction\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:01:24.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:00:54.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Domain.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\obj\\Debug\\net8.0\\Domain.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Domain\\obj\\Debug\\net8.0\\Domain.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\obj\\Debug\\net8.0\\Domain.GlobalUsings.g.cs",
+              "RelativeToolTip": "Domain\\obj\\Debug\\net8.0\\Domain.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:54:11.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\App\\App.csproj",
+              "RelativeToolTip": "App\\App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T17:46:00.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\App\\Handler.cs",
+              "RelativeDocumentMoniker": "App\\Handler.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\App\\Handler.cs",
+              "RelativeToolTip": "App\\Handler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:45:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfraSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\Infra\\InfraSetup.cs",
+              "RelativeDocumentMoniker": "Infra\\InfraSetup.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\Infra\\InfraSetup.cs",
+              "RelativeToolTip": "Infra\\InfraSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:45:19.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DomainSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\DomainSetup.cs",
+              "RelativeDocumentMoniker": "Domain\\DomainSetup.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\Domain\\DomainSetup.cs",
+              "RelativeToolTip": "Domain\\DomainSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:44:33.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\test_api\\test_api\\Program.cs",
+              "RelativeDocumentMoniker": "test_api\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\test_api\\test_api\\Program.cs",
+              "RelativeToolTip": "test_api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:39:30.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

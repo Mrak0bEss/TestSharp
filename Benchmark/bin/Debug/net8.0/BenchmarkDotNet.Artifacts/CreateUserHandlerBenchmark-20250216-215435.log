@@ -1,0 +1,4 @@
+// Validating benchmarks:
+// Benchmark CreateUserHandlerBenchmark.CreateUser: .NET 6.0(Runtime=.NET 6.0)
+//    * The required .NET Core SDK version 6.0 for runtime moniker Net60 is not installed.
+

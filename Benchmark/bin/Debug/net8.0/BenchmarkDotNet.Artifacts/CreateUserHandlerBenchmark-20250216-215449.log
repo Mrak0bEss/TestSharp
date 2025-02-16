@@ -1,0 +1,4 @@
+// Validating benchmarks:
+// Benchmark CreateUserHandlerBenchmark.CreateUser: .NET 8.0(Runtime=.NET 8.0)
+//    * The required .NET Core SDK version 8.0 for runtime moniker Net80 is not installed.
+
